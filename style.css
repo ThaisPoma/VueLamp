@@ -118,7 +118,7 @@ button span{
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    margin-top: 40px; /*altura da barra*/
+    margin-top: 40px; /*altura da barra / original: 150px*/
 }
 
 .control .line{
